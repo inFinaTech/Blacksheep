@@ -108,6 +108,7 @@ venv.bak/
 
 TMP/
 LABs/
+DKR/
 *.odt
 *.ods
 *.tmp
