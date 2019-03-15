@@ -1,10 +1,7 @@
-modulax
-=======
+# modulax
 
 
-Features
-----------
-
+## Features
 + made for modularity
 + auto-scaling
 + scaffolded
